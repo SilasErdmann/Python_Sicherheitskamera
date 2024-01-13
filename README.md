@@ -1,0 +1,3 @@
+Python-basierte Sicherheitskamera
+
+Beschreibung: In diesem Repository finden Sie eines meiner ersten Python-Projekte: ein Skript für eine Sicherheitskamera, die Personen in ihrem Sichtfeld erkennt, visuell hervorhebt und eine akustische Warnung auslöst. Nach der Erkennung wird das Bild der identifizierten Person lokal gespeichert. Dieses Projekt ist abgeschlossenes und wird nicht weiterentwickelt. Das Repository dient dazu, Interessierten die Möglichkeit zu geben, dieses Projekt von mir zu betrachten und Einblicke in meine Entwicklungsarbeit zu erhalten.
